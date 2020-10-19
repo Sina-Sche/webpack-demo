@@ -1,4 +1,12 @@
 .hello {
   color: rebeccapurple;
-  background: url("./icon.png");
+}
+
+.icon {
+  height: 400px;
+}
+.button {
+  height: 40px;
+  width: 200px;
+  margin: 50px;
 }
